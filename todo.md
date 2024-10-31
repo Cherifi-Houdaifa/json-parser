@@ -1,0 +1,2 @@
+- make the handlejsonobject function return arbitrary sized objitem array (not fixed to 10)
+- make the handlejsonarray function return arbitrary sized arrayitem array (not fixed to 10)
